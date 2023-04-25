@@ -1,0 +1,12 @@
+{
+  "home": "Home",
+  "splash": "Splash",
+  "profile": "Profile",
+  "settings": "Settings",
+  "register": "Register",
+  "registrationCaption": "Please fill in the form below to register",
+  "login": "Login",
+  "logout": "Logout",
+  "email": "Email",
+  "password": "Password"
+}

@@ -1,0 +1,18 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    todo: ignore
+  exclude:
+    - flutter/**
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    non_constant_identifier_names: false
+    always_declare_return_types: false
+    cancel_subscriptions: true
+    close_sinks: true
+    unnecessary_string_escapes: false
+    prefer_const_constructors: false
+    use_build_context_synchronously: false
